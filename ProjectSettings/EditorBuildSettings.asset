@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScenes/MainMenu.unity
+    guid: 1a69805f9673e4a4d9004b7077924c62
+  - enabled: 1
+    path: Assets/Scenes/MainScene/MainScene.unity
+    guid: 908408ba4caf73c409f46e9f234cbabe
+  - enabled: 1
+    path: Assets/Scenes/MainScene/PrisonScene.unity
+    guid: 629bd216c4e4ffa45b3f10e0de34fd3d
+  - enabled: 1
+    path: Assets/Scenes/MainScene/ArmouryScene.unity
+    guid: 8af2a03b33fc81e44be3b5422c0b8003
+  - enabled: 1
+    path: Assets/Scenes/MainScene/ScoreRoomScene.unity
+    guid: 91eb876ed5b737d44a23d94885cb52ce
+  - enabled: 1
+    path: Assets/Scenes/MenuScenes/FinalScene.unity
+    guid: 9407404f97a339949b3a947f4c0f21f4
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 830679c400d7ff44eb3f7353f900ccd0,
+      type: 2}
