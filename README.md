@@ -1,6 +1,6 @@
-My final submission for University and the first game I have released on Itch.IO. 
+COLLOSEUM FIGHTER - IX -  Made with Unity 
 
-Colloseum fighter game Made with Unity - IX
+My final submission for University and the first game I have released on Itch.IO. 
 
 The main bulk of scripts that I have written in C# can be found in the location:
 IX > Assets > Scripts 
