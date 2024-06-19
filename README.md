@@ -1,4 +1,4 @@
-IX - COLLOSEUM FIGHTER -  Made with Unity 
+IX - Colloseum Fighter -  Made with Unity 
 
 My final submission for University and the first game I have released on Itch.IO. 
 
